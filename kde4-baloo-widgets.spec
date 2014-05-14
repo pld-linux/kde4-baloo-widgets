@@ -5,13 +5,13 @@
 
 Summary:	A framework for searching and managing metadata - widgets
 Name:		kde4-baloo-widgets
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	LGPLv2 or LGPLv3
 Group:		X11/Applications
 URL:		http://www.kde.org/
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	1549e337098a15c0eba9aba38d185ce6
+# Source0-md5:	558f082fdad05bc9636cef4f73d27aac
 BuildRequires:	QtCore-devel >= %{qtver}
 BuildRequires:	akonadi-devel >= 1.12.0
 BuildRequires:	kde4-baloo-devel >= %{version}
